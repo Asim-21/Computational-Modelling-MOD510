@@ -31,4 +31,4 @@ Learning objectives of this project are:<br>
 • Explore your own scenario for the spread of Covid-19 (Corona virus).<br>
 
 # Instructions
-The theory and code is explained in the indivdual notebooks. The conclusions drawn from the comparative analysis are also discussed in the notebooks.   
+The theory and code is explained in indivdual notebooks. The conclusions drawn from the comparative analysis are also discussed in notebooks.   
