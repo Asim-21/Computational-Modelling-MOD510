@@ -29,3 +29,6 @@ Learning objectives of this project are:<br>
 • Visualize model uncertainty.<br>
 • Investigate how model parameters in the random walk approach can be related to those in a continuous compartment model.<br>
 • Explore your own scenario for the spread of Covid-19 (Corona virus).<br>
+
+# Instructions
+The theory and code is explained in the indivdual notebooks. The conclusions drawn from the comparative analysis are also discussed in the notebooks.   
